@@ -1,2 +1,2 @@
-# Python
-Learning Beginner
+# Python Course
+ Beginners 
